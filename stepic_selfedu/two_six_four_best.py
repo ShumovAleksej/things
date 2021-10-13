@@ -9,5 +9,5 @@ for i in range(n):
     for j in range(m):
         x = int(c[i][j-1]) + int(c[i][j+1-m]) + int(c[i-1][j]) + int(c[i+1-n][j])
         print(x, end=' ')
-    print(88888)
+    print(8909090909098)
     # hthtttntn
