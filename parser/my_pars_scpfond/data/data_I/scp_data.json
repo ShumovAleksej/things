@@ -1,0 +1,302 @@
+[
+    {
+        "Num": "SCP-001",
+        "Name": "SCP-001",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-002",
+        "Name": "SCP-002 - «Живая» комната",
+        "Class": "Евклид",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-002/800px-SCP002-new.jpg"
+    },
+    {
+        "Num": "SCP-003",
+        "Name": "SCP-003 - Биологическая материнская плата",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-004",
+        "Name": "SCP-004 - 12 ржавых ключей и дверь",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-005",
+        "Name": "SCP-005 - Отмычка",
+        "Class": "Безопасный",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-005/SCP-005.jpg"
+    },
+    {
+        "Num": "SCP-006",
+        "Name": "SCP-006 - Источник молодости",
+        "Class": "No SCP class",
+        "Image": "http://scp-ru.wdfiles.com/local--resized-images/scp-006/006/medium.jpg"
+    },
+    {
+        "Num": "SCP-007",
+        "Name": "SCP-007 - Планета в животе",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-008",
+        "Name": "SCP-008 - Чума зомби",
+        "Class": "- Введите учётные данные -",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-009",
+        "Name": "SCP-009 - Красный лед",
+        "Class": "Евклид",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-009/scp-009.jpg"
+    },
+    {
+        "Num": "SCP-010",
+        "Name": "SCP-010 - Ошейники подчинения",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-011",
+        "Name": "SCP-011 - \t Разумный памятник участникам Гражданской войны",
+        "Class": "Безопасный",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-011/SCP011.jpg"
+    },
+    {
+        "Num": "SCP-012",
+        "Name": "SCP-012 - Скверная мелодия",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-013",
+        "Name": "SCP-013 - Сигареты «Blue Lady»",
+        "Class": "Безопасный",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-013/SCP-013updated.jpg"
+    },
+    {
+        "Num": "SCP-014",
+        "Name": "SCP-014 - Каменный человек",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-015",
+        "Name": "SCP-015 - Ужасный трубопровод",
+        "Class": "Евклид",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-015/SCP-015New.png"
+    },
+    {
+        "Num": "SCP-016",
+        "Name": "SCP-016 - Разумный вирус",
+        "Class": "Кетер",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-017",
+        "Name": "SCP-017 - «Тень» человека",
+        "Class": "Кетер",
+        "Image": "http://scp-ru.wdfiles.com/local--resized-images/scp-017/017/medium.jpg"
+    },
+    {
+        "Num": "SCP-018",
+        "Name": "SCP-018 - Мяч «Super Ball»",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-019",
+        "Name": "SCP-019 - Чудовищная ваза",
+        "Class": "Кетер",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-019/scp-019-new.jpg"
+    },
+    {
+        "Num": "SCP-020",
+        "Name": "SCP-020 - Незримая плесень",
+        "Class": "No SCP class",
+        "Image": "http://scp-ru.wdfiles.com/local--files/scp-020/scp-020.jpg"
+    },
+    {
+        "Num": "SCP-021",
+        "Name": "SCP-021 - Подкожный Змей",
+        "Class": "Безопасный",
+        "Image": "http://scp-ru.wikidot.com/local--files/scp-021/scp-021.jpg"
+    },
+    {
+        "Num": "SCP-022",
+        "Name": "SCP-022 - Морг",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-023",
+        "Name": "SCP-023 - Чёрный пёс",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-024",
+        "Name": "SCP-024 - Смертельное игровое шоу",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-025",
+        "Name": "SCP-025 - Шкаф с поношенными вещами",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-026",
+        "Name": "SCP-026 - Оставшиеся после уроков",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-027",
+        "Name": "SCP-027 - Повелитель мух",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-028",
+        "Name": "SCP-028 - Знание",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-029",
+        "Name": "SCP-029 - Дочь теней",
+        "Class": "Кетер",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-030",
+        "Name": "SCP-030 - Гомункул",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-031",
+        "Name": "SCP-031 - Что такое любовь?",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-032",
+        "Name": "SCP-032 - Невеста Братьев",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-033",
+        "Name": "SCP-033 - Пропущенное число",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-034",
+        "Name": "SCP-034 - Обсидиановый ритуальный нож",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-035",
+        "Name": "SCP-035 - Маска одержимости",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-036",
+        "Name": "SCP-036 - Паломничество Перевоплощения езидов",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-037",
+        "Name": "SCP-037 - Карликовая звезда",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-038",
+        "Name": "SCP-038 - Дерево всего",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-039",
+        "Name": "SCP-039 - Носатые инженеры",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-040",
+        "Name": "SCP-040 - Дитя эволюции",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-041",
+        "Name": "SCP-041 - Мыслевещатель",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-042",
+        "Name": "SCP-042 - Некогда крылатая лошадь",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-043",
+        "Name": "SCP-043 - The Beatle",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-044",
+        "Name": "SCP-044 - Пушка Молекулярного Расщепления времён ВОВ",
+        "Class": "No SCP class",
+        "Image": "http://scp-ru.wikidot.com/local--files/scp-044/SCP-044.jpg"
+    },
+    {
+        "Num": "SCP-045",
+        "Name": "SCP-045 - Преобразователь атмосферы",
+        "Class": "Безопасный",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-046",
+        "Name": "SCP-046 - \"Хищные\" заросли остролиста",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-047",
+        "Name": "SCP-047 - Микробиологический мутаген",
+        "Class": "Кетер",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-048",
+        "Name": "SCP-048 - Проклятый номер SCP",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-049",
+        "Name": "SCP-049 - Чумной доктор",
+        "Class": "No SCP class",
+        "Image": "No SCP image"
+    },
+    {
+        "Num": "SCP-050",
+        "Name": "SCP-050 - Самому умному",
+        "Class": "Евклид",
+        "Image": "No SCP image"
+    }
+]
