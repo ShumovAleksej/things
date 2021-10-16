@@ -8,30 +8,27 @@ headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
     "User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 YaBrowser/21.9.0.1044 Yowser/2.5 Safari/537.36"
 }
+# Create Index.html file of site
 # req = requests.get(url, headers=headers)
 # src = req.text
-# print(src)
 # with open("index.html", "w", encoding="utf-8") as f:
 #     f.write(src)
-#
 # with open("index.html", encoding="utf-8") as f:
 #     src = f.read()
 #
+# Create JSON file with text, href
 # soup = BeautifulSoup(src, 'lxml')
-#
 # all_products_hrefs = soup.find_all(class_="mzr-tc-group-item-href")
 # all_categories_dict = {}
 # for item in all_products_hrefs:
 #     item_text = item.text
 #     item_href = "https://health-diet.ru" + item.get("href")
 #     all_categories_dict[item_text] = item_href
-#
 # with open("all_categories_dict.json", "w", encoding="utf-8") as file:
 #     json.dump(all_categories_dict, file, indent=4, ensure_ascii=False)
 
 with open("all_categories_dict.json", encoding="utf-8") as file:
     all_categories = json.load(file)
-
 iteration_count = int(len(all_categories)) - 1
 count = 0
 print(f"Всего итераций: {iteration_count}")
